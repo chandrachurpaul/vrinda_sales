@@ -12,12 +12,12 @@ This project is aimed to create a yearly sales report for a hypothetical e-comme
 
 ## Results
 - Highest Gross Sales were Recorded in March, 9.25% higher than the Average Gross Sales over the period
-![image](https://github.com/chandrachurpaul/vrinda_sales/assets/131177468/2de93e8e-9e6d-451e-8d1e-3a8c02173e0e)
+- 64% of the orders were placed by women, compared to 36% being placed by men
+- Orders from Maharastra generated the highest revenue
+- 92% of the orders were delivered successfully
+- 35% of the orders came from Amazon, which has the highest contribution among all sales channels
+- Adult Females placed the most number of orders
 
-- **Regional Sales**: 
-- **Platform Performance**: 
-- **Demographic Preferences**: 
-- **Retail vs. Shopify Sales**: 
 
 ## Conclusion
 
