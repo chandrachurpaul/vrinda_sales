@@ -15,7 +15,7 @@ This project is aimed to create a yearly sales report for a hypothetical e-comme
 - 64% of the orders were placed by women, compared to 36% being placed by men
 - Orders from Maharastra generated the highest revenue
 - 92% of the orders were delivered successfully
-- 35% of the orders came from Amazon, which has the highest contribution among all sales channels
+- 35% of the orders came from Amazon, which has the highest contribution among all sales channels, followed by Flipkart(22%) and Myntra(23%)
 - Adult Females placed the most number of orders
 
 
