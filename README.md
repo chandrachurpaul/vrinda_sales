@@ -11,7 +11,9 @@ This project is aimed to create a yearly sales report for a hypothetical e-comme
 - **Data Visualisation**: Brought all Pivot Charts like pie charts and line charts to visualise different kinds of information to one dashboard.
 
 ## Results
-- **Total Transactions**: 
+- Highest Gross Sales were Recorded in March, 9.25% higher than the Average Gross Sales over the period
+![image](https://github.com/chandrachurpaul/vrinda_sales/assets/131177468/2de93e8e-9e6d-451e-8d1e-3a8c02173e0e)
+
 - **Regional Sales**: 
 - **Platform Performance**: 
 - **Demographic Preferences**: 
