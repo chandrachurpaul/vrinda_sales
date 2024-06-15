@@ -23,4 +23,3 @@ This project is aimed to create a yearly sales report for a hypothetical e-comme
 In order to improve the financials like orders and revenue, women customers of age group (30-49) years should be the target group. Since Maharashtra, Uttar Pradesh and Karnataka were the states that had people ordersing the most, those regions should be targetted. Discount coupons on Amazon, Flipkart and Myntra will improve sales, as most orders came from those channels.  
 
 
-A project by: Chandrachur Paul
